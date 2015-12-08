@@ -1,6 +1,6 @@
 name: Webshop
 favicon: null
-layout_spectrum: 0.1859320318326354
+layout_spectrum: 1
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0.5
-  lightness: 0.8896986115723848
-  saturation: 0.5214824816212058
-  rhythmicContrast: 0.05323614040389657
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
